@@ -2,7 +2,7 @@
 
 ### **Project Overview**
 This project addresses the challenge of automated feature extraction from high-resolution aerial imagery, specifically focusing on the segmentation of road networks. By leveraging a **U-Net architecture** and a subset of the **Massachusetts Roads Dataset**, the project successfully implemented a deep learning training loop to classify pixels as "road" or "background." The resulting model provides a foundational framework for automating geographic information system (GIS) updates and infrastructure monitoring.
-<img width="925" height="256" alt="Screen Shot 2026-05-02 at 19 56 36" src="https://github.com/user-attachments/assets/25685f42-f580-4b88-a40f-55e4ac037d1b" />
+<img width="918" height="245" alt="Screen Shot 2026-05-02 at 19 56 36" src="https://github.com/user-attachments/assets/86329e43-5078-4f07-9542-13fc79b93889" />
 
 ### **Business Understanding**
 **Stakeholders:**
@@ -39,4 +39,4 @@ The project successfully demonstrates that the U-Net architecture can effectivel
 
 **Future Steps:**
 *   **Backbone Integration:** Incorporate pre-trained encoders (such as ResNet or EfficientNet) within the U-Net structure to accelerate convergence.
-*   **Real-world Testing:** Expand the model's application to diverse geographical regions outside of Massachusetts to test its transfer learning capabilities.<img width="925" height="256" alt="Screen Shot 2026-05-02 at 19 56 36" src="https://github.com/user-attachments/assets/abb131f5-020e-42bc-a7db-488e370674ee" />
+*   **Real-world Testing:** Expand the model's application to diverse geographical regions outside of Massachusetts to test its transfer learning capabilities.
